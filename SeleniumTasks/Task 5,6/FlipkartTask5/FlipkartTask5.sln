@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlipkartTask5", "FlipkartTask5\FlipkartTask5.csproj", "{7F8CD176-0D6D-458B-BB6D-431886AED08F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SauceDemoTask6", "SauceDemoTask6\SauceDemoTask6.csproj", "{C9F7B526-1DA2-41D1-93B3-65076206CAB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F8CD176-0D6D-458B-BB6D-431886AED08F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F8CD176-0D6D-458B-BB6D-431886AED08F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F8CD176-0D6D-458B-BB6D-431886AED08F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F8CD176-0D6D-458B-BB6D-431886AED08F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9F7B526-1DA2-41D1-93B3-65076206CAB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9F7B526-1DA2-41D1-93B3-65076206CAB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9F7B526-1DA2-41D1-93B3-65076206CAB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9F7B526-1DA2-41D1-93B3-65076206CAB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82A2567F-823F-4DDC-A745-265EE2324BB9}
+	EndGlobalSection
+EndGlobal

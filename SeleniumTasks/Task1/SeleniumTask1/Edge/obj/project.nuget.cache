@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "kmzx5iCOQW7wZvMkTjyH4z4hT44gkxQ+q5W6jclPuQKjCBu4w2HyFyz4pP7+G84aY7tcVbslgaHvwMdzrC7yeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shivasree_Ambavaram\\source\\repos\\SeleniumTasks\\SeleniumTask1\\Edge\\EdgeNunit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shivasree_Ambavaram\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
+    "C:\\Users\\Shivasree_Ambavaram\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
+    "C:\\Users\\Shivasree_Ambavaram\\.nuget\\packages\\microsoft.net.test.sdk\\17.1.0\\microsoft.net.test.sdk.17.1.0.nupkg.sha512",
+    "C:\\Users\\Shivasree_Ambavaram\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Shivasree_Ambavaram\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.1.0\\microsoft.testplatform.objectmodel.17.1.0.nupkg.sha512",
+    "C:\\Users\\Shivasree_Ambavaram\\.nuget\\packages\\microsoft.testplatform.testhost\\17.1.0\\microsoft.testplatform.testhost.17.1.0.nupkg.sha512",
+    "C:\\Users\\Shivasree_Ambavaram\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Shivasree_Ambavaram\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Shivasree_Ambavaram\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\Shivasree_Ambavaram\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\Shivasree_Ambavaram\\.nuget\\packages\\nunit.analyzers\\3.3.0\\nunit.analyzers.3.3.0.nupkg.sha512",
+    "C:\\Users\\Shivasree_Ambavaram\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
+    "C:\\Users\\Shivasree_Ambavaram\\.nuget\\packages\\selenium.support\\4.6.0\\selenium.support.4.6.0.nupkg.sha512",
+    "C:\\Users\\Shivasree_Ambavaram\\.nuget\\packages\\selenium.webdriver\\4.6.0\\selenium.webdriver.4.6.0.nupkg.sha512",
+    "C:\\Users\\Shivasree_Ambavaram\\.nuget\\packages\\selenium.webdriver.msedgedriver\\107.0.1418.42\\selenium.webdriver.msedgedriver.107.0.1418.42.nupkg.sha512",
+    "C:\\Users\\Shivasree_Ambavaram\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

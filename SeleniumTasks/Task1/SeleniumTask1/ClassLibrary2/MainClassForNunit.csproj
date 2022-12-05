@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Edge\EdgeNunit.csproj" />
+    <ProjectReference Include="..\SeleniumTask1\Task1UsingClassLibrary.csproj" />
+    <ProjectReference Include="..\Task1WithNunit\ChromeNunit.csproj" />
+  </ItemGroup>
+
+</Project>
