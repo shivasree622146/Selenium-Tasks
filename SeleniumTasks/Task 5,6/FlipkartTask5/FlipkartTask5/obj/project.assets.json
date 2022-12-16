@@ -5752,11 +5752,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shivasree_Ambavaram\\source\\repos\\FlipkartTask5\\FlipkartTask5\\FlipkartTask5.csproj",
+      "projectUniqueName": "C:\\Users\\Shivasree_Ambavaram\\source\\repos\\SeleniumTasks\\Task 5,6\\FlipkartTask5\\FlipkartTask5\\FlipkartTask5.csproj",
       "projectName": "FlipkartTask5",
-      "projectPath": "C:\\Users\\Shivasree_Ambavaram\\source\\repos\\FlipkartTask5\\FlipkartTask5\\FlipkartTask5.csproj",
+      "projectPath": "C:\\Users\\Shivasree_Ambavaram\\source\\repos\\SeleniumTasks\\Task 5,6\\FlipkartTask5\\FlipkartTask5\\FlipkartTask5.csproj",
       "packagesPath": "C:\\Users\\Shivasree_Ambavaram\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shivasree_Ambavaram\\source\\repos\\FlipkartTask5\\FlipkartTask5\\obj\\",
+      "outputPath": "C:\\Users\\Shivasree_Ambavaram\\source\\repos\\SeleniumTasks\\Task 5,6\\FlipkartTask5\\FlipkartTask5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

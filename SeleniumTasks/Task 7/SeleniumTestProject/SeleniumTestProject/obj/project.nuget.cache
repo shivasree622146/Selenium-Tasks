@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8MCGtO+bcawqj6eMXtJ2SPYe31B8IggPq1h6lWZuSaKDgJfJfKaHWcRhxvK6TrF8vY2sSwiALc6BQWIDsWR0oQ==",
+  "dgSpecHash": "o7DVgVIHiutHxp92EXPsl+qLCW4JoxU4e7oqhR1kU48F9yUKYtV89Srjjzkc+I3OdCNE8KO5WVXcSlSrW6q/lQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Shivasree_Ambavaram\\source\\repos\\SeleniumTestProject\\SeleniumTestProject\\SeleniumTestProject.csproj",
+  "projectFilePath": "C:\\Users\\Shivasree_Ambavaram\\source\\repos\\SeleniumTasks\\Task 7\\SeleniumTestProject\\SeleniumTestProject\\SeleniumTestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shivasree_Ambavaram\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Shivasree_Ambavaram\\.nuget\\packages\\dnsclient\\1.2.0\\dnsclient.1.2.0.nupkg.sha512",

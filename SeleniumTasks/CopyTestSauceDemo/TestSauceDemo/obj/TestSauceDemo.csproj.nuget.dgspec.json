@@ -1,0 +1,159 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Shivasree_Ambavaram\\source\\repos\\CopyTestSauceDemo\\TestSauceDemo\\TestSauceDemo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Shivasree_Ambavaram\\source\\repos\\CopyTestSauceDemo\\CommonLibrary\\CommonLibrary.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Shivasree_Ambavaram\\source\\repos\\CopyTestSauceDemo\\CommonLibrary\\CommonLibrary.csproj",
+        "projectName": "CommonLibrary",
+        "projectPath": "C:\\Users\\Shivasree_Ambavaram\\source\\repos\\CopyTestSauceDemo\\CommonLibrary\\CommonLibrary.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Shivasree_Ambavaram\\source\\repos\\CopyTestSauceDemo\\POMSauceDemo\\POMSauceDemo.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Shivasree_Ambavaram\\source\\repos\\CopyTestSauceDemo\\POMSauceDemo\\POMSauceDemo.csproj",
+        "projectName": "POMSauceDemo",
+        "projectPath": "C:\\Users\\Shivasree_Ambavaram\\source\\repos\\CopyTestSauceDemo\\POMSauceDemo\\POMSauceDemo.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Shivasree_Ambavaram\\source\\repos\\CopyTestSauceDemo\\CommonLibrary\\CommonLibrary.csproj": {
+                "projectPath": "C:\\Users\\Shivasree_Ambavaram\\source\\repos\\CopyTestSauceDemo\\CommonLibrary\\CommonLibrary.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Shivasree_Ambavaram\\source\\repos\\CopyTestSauceDemo\\TestSauceDemo\\TestSauceDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Shivasree_Ambavaram\\source\\repos\\CopyTestSauceDemo\\TestSauceDemo\\TestSauceDemo.csproj",
+        "projectName": "TestSauceDemo",
+        "projectPath": "C:\\Users\\Shivasree_Ambavaram\\source\\repos\\CopyTestSauceDemo\\TestSauceDemo\\TestSauceDemo.csproj",
+        "packagesPath": "C:\\Users\\Shivasree_Ambavaram\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shivasree_Ambavaram\\source\\repos\\CopyTestSauceDemo\\TestSauceDemo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shivasree_Ambavaram\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Shivasree_Ambavaram\\source\\repos\\CopyTestSauceDemo\\CommonLibrary\\CommonLibrary.csproj": {
+                "projectPath": "C:\\Users\\Shivasree_Ambavaram\\source\\repos\\CopyTestSauceDemo\\CommonLibrary\\CommonLibrary.csproj"
+              },
+              "C:\\Users\\Shivasree_Ambavaram\\source\\repos\\CopyTestSauceDemo\\POMSauceDemo\\POMSauceDemo.csproj": {
+                "projectPath": "C:\\Users\\Shivasree_Ambavaram\\source\\repos\\CopyTestSauceDemo\\POMSauceDemo\\POMSauceDemo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "ExtentReports": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.9.74, )"
+            },
+            "SpecFlow.NUnit": {
+              "target": "Package",
+              "version": "[3.9.74, )"
+            },
+            "SpecFlow.Tools.MsBuild.Generation": {
+              "target": "Package",
+              "version": "[3.9.74, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "WebDriverManager": {
+              "target": "Package",
+              "version": "[2.16.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
